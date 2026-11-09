@@ -28,5 +28,35 @@
     "ippt": 0.1,
     "q_turns": 30,
     "date": "2026-11-09"
+  },
+  {
+    "spring_name": "0.207 × 2\" × 24\" Torsion Spring Pair (High-Cycle 16x7)",
+    "slug": "0207-2-24-torsion-spring-pair-high-cycle-16x7-ippt-turns-calculator",
+    "title": "0.207 × 2\" × 24\" Torsion Spring Pair (High-Cycle 16x7) IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.06 IPPT/spring), balanced door weight (0 lbs pair / 0 lbs single), 20-coil wire size (4.14\"), and 30 quarter-turns for 0.207 × 2\" × 24\" Torsion Spring Pair (High-Cycle 16x7).",
+    "door_lbs": 0,
+    "ippt": 0.1,
+    "q_turns": 30,
+    "date": "2026-11-09"
+  },
+  {
+    "spring_name": "0.218 × 2\" × 23\" Torsion Spring Pair (16x7 Insulated)",
+    "slug": "0218-2-23-torsion-spring-pair-16x7-insulated-ippt-turns-calculator",
+    "title": "0.218 × 2\" × 23\" Torsion Spring Pair (16x7 Insulated) IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.08 IPPT/spring), balanced door weight (1 lbs pair / 0 lbs single), 20-coil wire size (4.36\"), and 30 quarter-turns for 0.218 × 2\" × 23\" Torsion Spring Pair (16x7 Insulated).",
+    "door_lbs": 1,
+    "ippt": 0.1,
+    "q_turns": 30,
+    "date": "2026-11-09"
+  },
+  {
+    "spring_name": "0.218 × 2\" × 24\" Torsion Spring Pair (16x7 Vinyl-Backed)",
+    "slug": "0218-2-24-torsion-spring-pair-16x7-vinyl-backed-ippt-turns-calculator",
+    "title": "0.218 × 2\" × 24\" Torsion Spring Pair (16x7 Vinyl-Backed) IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.08 IPPT/spring), balanced door weight (1 lbs pair / 0 lbs single), 20-coil wire size (4.36\"), and 30 quarter-turns for 0.218 × 2\" × 24\" Torsion Spring Pair (16x7 Vinyl-Backed).",
+    "door_lbs": 1,
+    "ippt": 0.1,
+    "q_turns": 30,
+    "date": "2026-11-09"
   }
 ]
