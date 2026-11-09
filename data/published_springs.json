@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "spring_name": "0.192 × 2\" × 20\" Torsion Spring Pair (16x7 Light Door)",
+    "slug": "0192-2-20-torsion-spring-pair-16x7-light-door-ippt-turns-calculator",
+    "title": "0.192 × 2\" × 20\" Torsion Spring Pair (16x7 Light Door) IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.05 IPPT/spring), balanced door weight (0 lbs pair / 0 lbs single), 20-coil wire size (3.84\"), and 30 quarter-turns for 0.192 × 2\" × 20\" Torsion Spring Pair (16x7 Light Door).",
+    "door_lbs": 0,
+    "ippt": 0.1,
+    "q_turns": 30,
+    "date": "2026-11-09"
+  },
+  {
+    "spring_name": "0.207 × 1.75\" × 23\" Torsion Spring Pair (Standard 16x7)",
+    "slug": "0207-175-23-torsion-spring-pair-standard-16x7-ippt-turns-calculator",
+    "title": "0.207 × 1.75\" × 23\" Torsion Spring Pair (Standard 16x7) IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.07 IPPT/spring), balanced door weight (1 lbs pair / 0 lbs single), 20-coil wire size (4.14\"), and 30 quarter-turns for 0.207 × 1.75\" × 23\" Torsion Spring Pair (Standard 16x7).",
+    "door_lbs": 1,
+    "ippt": 0.1,
+    "q_turns": 30,
+    "date": "2026-11-09"
+  },
+  {
+    "spring_name": "0.207 × 2\" × 22\" Torsion Spring Pair (16x7 Non-Insulated)",
+    "slug": "0207-2-22-torsion-spring-pair-16x7-non-insulated-ippt-turns-calculator",
+    "title": "0.207 × 2\" × 22\" Torsion Spring Pair (16x7 Non-Insulated) IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.06 IPPT/spring), balanced door weight (0 lbs pair / 0 lbs single), 20-coil wire size (4.14\"), and 30 quarter-turns for 0.207 × 2\" × 22\" Torsion Spring Pair (16x7 Non-Insulated).",
+    "door_lbs": 0,
+    "ippt": 0.1,
+    "q_turns": 30,
+    "date": "2026-11-09"
+  }
+]
