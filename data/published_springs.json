@@ -148,5 +148,35 @@
     "ippt": 0.1,
     "q_turns": 30,
     "date": "2026-11-11"
+  },
+  {
+    "spring_name": "0.243 × 2\" × 28\" Torsion Spring Pair (16x8 Double-Steel)",
+    "slug": "0243-2-28-torsion-spring-pair-16x8-double-steel-ippt-turns-calculator",
+    "title": "0.243 × 2\" × 28\" Torsion Spring Pair (16x8 Double-Steel) IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.11 IPPT/spring), balanced door weight (1 lbs pair / 0 lbs single), 20-coil wire size (4.86\"), and 34 quarter-turns for 0.243 × 2\" × 28\" Torsion Spring Pair (16x8 Double-Steel).",
+    "door_lbs": 1,
+    "ippt": 0.1,
+    "q_turns": 34,
+    "date": "2026-11-11"
+  },
+  {
+    "spring_name": "0.243 × 2\" × 30\" Torsion Spring Pair (High-Cycle 16x8)",
+    "slug": "0243-2-30-torsion-spring-pair-high-cycle-16x8-ippt-turns-calculator",
+    "title": "0.243 × 2\" × 30\" Torsion Spring Pair (High-Cycle 16x8) IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.1 IPPT/spring), balanced door weight (1 lbs pair / 0 lbs single), 20-coil wire size (4.86\"), and 34 quarter-turns for 0.243 × 2\" × 30\" Torsion Spring Pair (High-Cycle 16x8).",
+    "door_lbs": 1,
+    "ippt": 0.1,
+    "q_turns": 34,
+    "date": "2026-11-11"
+  },
+  {
+    "spring_name": "0.250 × 2\" × 28\" Torsion Spring Pair (16x7 Heavy Wood)",
+    "slug": "0250-2-28-torsion-spring-pair-16x7-heavy-wood-ippt-turns-calculator",
+    "title": "0.250 × 2\" × 28\" Torsion Spring Pair (16x7 Heavy Wood) IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.13 IPPT/spring), balanced door weight (1 lbs pair / 0 lbs single), 20-coil wire size (5.0\"), and 30 quarter-turns for 0.250 × 2\" × 28\" Torsion Spring Pair (16x7 Heavy Wood).",
+    "door_lbs": 1,
+    "ippt": 0.1,
+    "q_turns": 30,
+    "date": "2026-11-11"
   }
 ]
