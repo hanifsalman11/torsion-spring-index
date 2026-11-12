@@ -178,5 +178,35 @@
     "ippt": 0.1,
     "q_turns": 30,
     "date": "2026-11-11"
+  },
+  {
+    "spring_name": "0.250 × 2\" × 30\" Torsion Spring Pair (16x8 Carriage House)",
+    "slug": "0250-2-30-torsion-spring-pair-16x8-carriage-house-ippt-turns-calculator",
+    "title": "0.250 × 2\" × 30\" Torsion Spring Pair (16x8 Carriage House) IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.12 IPPT/spring), balanced door weight (1 lbs pair / 0 lbs single), 20-coil wire size (5.0\"), and 34 quarter-turns for 0.250 × 2\" × 30\" Torsion Spring Pair (16x8 Carriage House).",
+    "door_lbs": 1,
+    "ippt": 0.1,
+    "q_turns": 34,
+    "date": "2026-11-12"
+  },
+  {
+    "spring_name": "0.250 × 2\" × 32\" Torsion Spring Pair (18x8 Insulated Door)",
+    "slug": "0250-2-32-torsion-spring-pair-18x8-insulated-door-ippt-turns-calculator",
+    "title": "0.250 × 2\" × 32\" Torsion Spring Pair (18x8 Insulated Door) IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.11 IPPT/spring), balanced door weight (1 lbs pair / 0 lbs single), 20-coil wire size (5.0\"), and 34 quarter-turns for 0.250 × 2\" × 32\" Torsion Spring Pair (18x8 Insulated Door).",
+    "door_lbs": 1,
+    "ippt": 0.1,
+    "q_turns": 34,
+    "date": "2026-11-12"
+  },
+  {
+    "spring_name": "0.262 × 2\" × 32\" Torsion Spring Pair (16x8 Full-View Glass)",
+    "slug": "0262-2-32-torsion-spring-pair-16x8-full-view-glass-ippt-turns-calculator",
+    "title": "0.262 × 2\" × 32\" Torsion Spring Pair (16x8 Full-View Glass) IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.14 IPPT/spring), balanced door weight (1 lbs pair / 0 lbs single), 20-coil wire size (5.24\"), and 34 quarter-turns for 0.262 × 2\" × 32\" Torsion Spring Pair (16x8 Full-View Glass).",
+    "door_lbs": 1,
+    "ippt": 0.1,
+    "q_turns": 34,
+    "date": "2026-11-12"
   }
 ]
