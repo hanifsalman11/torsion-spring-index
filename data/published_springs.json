@@ -208,5 +208,35 @@
     "ippt": 0.1,
     "q_turns": 34,
     "date": "2026-11-12"
+  },
+  {
+    "spring_name": "0.273 × 2\" × 34\" Torsion Spring Pair (Commercial / Custom)",
+    "slug": "0273-2-34-torsion-spring-pair-commercial-custom-ippt-turns-calculator",
+    "title": "0.273 × 2\" × 34\" Torsion Spring Pair (Commercial / Custom) IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.16 IPPT/spring), balanced door weight (1 lbs pair / 0 lbs single), 20-coil wire size (5.46\"), and 34 quarter-turns for 0.273 × 2\" × 34\" Torsion Spring Pair (Commercial / Custom).",
+    "door_lbs": 1,
+    "ippt": 0.2,
+    "q_turns": 34,
+    "date": "2026-11-12"
+  },
+  {
+    "spring_name": "8x7 Single-Car Garage Door (95 Lbs) Torsion Spring Sizing",
+    "slug": "8x7-single-car-garage-door-95-lbs-torsion-spring-sizing-ippt-turns-calculator",
+    "title": "8x7 Single-Car Garage Door (95 Lbs) Torsion Spring Sizing IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.06 IPPT/spring), balanced door weight (0 lbs pair / 0 lbs single), 20-coil wire size (4.14\"), and 30 quarter-turns for 8x7 Single-Car Garage Door (95 Lbs) Torsion Spring Sizing.",
+    "door_lbs": 0,
+    "ippt": 0.1,
+    "q_turns": 30,
+    "date": "2026-11-12"
+  },
+  {
+    "spring_name": "9x7 Insulated Single Garage Door (125 Lbs) Spring Sizing",
+    "slug": "9x7-insulated-single-garage-door-125-lbs-spring-sizing-ippt-turns-calculator",
+    "title": "9x7 Insulated Single Garage Door (125 Lbs) Spring Sizing IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.08 IPPT/spring), balanced door weight (1 lbs pair / 0 lbs single), 20-coil wire size (4.5\"), and 30 quarter-turns for 9x7 Insulated Single Garage Door (125 Lbs) Spring Sizing.",
+    "door_lbs": 1,
+    "ippt": 0.1,
+    "q_turns": 30,
+    "date": "2026-11-12"
   }
 ]
