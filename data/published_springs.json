@@ -268,5 +268,35 @@
     "ippt": 0.1,
     "q_turns": 30,
     "date": "2026-11-13"
+  },
+  {
+    "spring_name": "16x8 Tall 2-Car Insulated Garage Door (255 Lbs) Sizing",
+    "slug": "16x8-tall-2-car-insulated-garage-door-255-lbs-sizing-ippt-turns-calculator",
+    "title": "16x8 Tall 2-Car Insulated Garage Door (255 Lbs) Sizing IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.11 IPPT/spring), balanced door weight (1 lbs pair / 0 lbs single), 20-coil wire size (4.86\"), and 34 quarter-turns for 16x8 Tall 2-Car Insulated Garage Door (255 Lbs) Sizing.",
+    "door_lbs": 1,
+    "ippt": 0.1,
+    "q_turns": 34,
+    "date": "2026-11-13"
+  },
+  {
+    "spring_name": "Wayne Dalton TorqueMaster to Standard Torsion Conversion",
+    "slug": "wayne-dalton-torquemaster-to-standard-torsion-conversion-ippt-turns-calculator",
+    "title": "Wayne Dalton TorqueMaster to Standard Torsion Conversion IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.08 IPPT/spring), balanced door weight (1 lbs pair / 0 lbs single), 20-coil wire size (4.36\"), and 30 quarter-turns for Wayne Dalton TorqueMaster to Standard Torsion Conversion.",
+    "door_lbs": 1,
+    "ippt": 0.1,
+    "q_turns": 30,
+    "date": "2026-11-13"
+  },
+  {
+    "spring_name": "Single Torsion Spring to Dual 2-Spring Conversion Sizing",
+    "slug": "single-torsion-spring-to-dual-2-spring-conversion-sizing-ippt-turns-calculator",
+    "title": "Single Torsion Spring to Dual 2-Spring Conversion Sizing IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.06 IPPT/spring), balanced door weight (0 lbs pair / 0 lbs single), 20-coil wire size (4.14\"), and 30 quarter-turns for Single Torsion Spring to Dual 2-Spring Conversion Sizing.",
+    "door_lbs": 0,
+    "ippt": 0.1,
+    "q_turns": 30,
+    "date": "2026-11-13"
   }
 ]
