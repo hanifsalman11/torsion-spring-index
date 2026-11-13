@@ -238,5 +238,35 @@
     "ippt": 0.1,
     "q_turns": 30,
     "date": "2026-11-12"
+  },
+  {
+    "spring_name": "16x7 Non-Insulated 2-Car Pan Door (155 Lbs) Spring Sizing",
+    "slug": "16x7-non-insulated-2-car-pan-door-155-lbs-spring-sizing-ippt-turns-calculator",
+    "title": "16x7 Non-Insulated 2-Car Pan Door (155 Lbs) Spring Sizing IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.06 IPPT/spring), balanced door weight (0 lbs pair / 0 lbs single), 20-coil wire size (4.14\"), and 30 quarter-turns for 16x7 Non-Insulated 2-Car Pan Door (155 Lbs) Spring Sizing.",
+    "door_lbs": 0,
+    "ippt": 0.1,
+    "q_turns": 30,
+    "date": "2026-11-13"
+  },
+  {
+    "spring_name": "16x7 Polystyrene Insulated 2-Car Door (195 Lbs) Sizing",
+    "slug": "16x7-polystyrene-insulated-2-car-door-195-lbs-sizing-ippt-turns-calculator",
+    "title": "16x7 Polystyrene Insulated 2-Car Door (195 Lbs) Sizing IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.08 IPPT/spring), balanced door weight (1 lbs pair / 0 lbs single), 20-coil wire size (4.36\"), and 30 quarter-turns for 16x7 Polystyrene Insulated 2-Car Door (195 Lbs) Sizing.",
+    "door_lbs": 1,
+    "ippt": 0.1,
+    "q_turns": 30,
+    "date": "2026-11-13"
+  },
+  {
+    "spring_name": "16x7 Triple-Layer Polyurethane Door (235 Lbs) Sizing",
+    "slug": "16x7-triple-layer-polyurethane-door-235-lbs-sizing-ippt-turns-calculator",
+    "title": "16x7 Triple-Layer Polyurethane Door (235 Lbs) Sizing IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.1 IPPT/spring), balanced door weight (1 lbs pair / 0 lbs single), 20-coil wire size (4.68\"), and 30 quarter-turns for 16x7 Triple-Layer Polyurethane Door (235 Lbs) Sizing.",
+    "door_lbs": 1,
+    "ippt": 0.1,
+    "q_turns": 30,
+    "date": "2026-11-13"
   }
 ]
