@@ -328,5 +328,35 @@
     "ippt": 0.1,
     "q_turns": 30,
     "date": "2026-11-14"
+  },
+  {
+    "spring_name": "Overhead Door Torsion Spring",
+    "slug": "overhead-door-torsion-spring-ippt-turns-calculator",
+    "title": "Overhead Door Torsion Spring IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.08 IPPT/spring), balanced door weight (1 lbs pair / 0 lbs single), 20-coil wire size (4.36\"), and 30 quarter-turns for Overhead Door Torsion Spring.",
+    "door_lbs": 1,
+    "ippt": 0.1,
+    "q_turns": 30,
+    "date": "2026-11-14"
+  },
+  {
+    "spring_name": "Garage Door Torsion Spring Formula",
+    "slug": "garage-door-torsion-spring-formula-ippt-turns-calculator",
+    "title": "Garage Door Torsion Spring Formula IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.08 IPPT/spring), balanced door weight (1 lbs pair / 0 lbs single), 20-coil wire size (4.36\"), and 30 quarter-turns for Garage Door Torsion Spring Formula.",
+    "door_lbs": 1,
+    "ippt": 0.1,
+    "q_turns": 30,
+    "date": "2026-11-14"
+  },
+  {
+    "spring_name": "Garage Door Torsion Spring Design",
+    "slug": "garage-door-torsion-spring-design-ippt-turns-calculator",
+    "title": "Garage Door Torsion Spring Design IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.08 IPPT/spring), balanced door weight (1 lbs pair / 0 lbs single), 20-coil wire size (4.36\"), and 30 quarter-turns for Garage Door Torsion Spring Design.",
+    "door_lbs": 1,
+    "ippt": 0.1,
+    "q_turns": 30,
+    "date": "2026-11-14"
   }
 ]
