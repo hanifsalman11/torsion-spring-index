@@ -418,5 +418,35 @@
     "ippt": 0.1,
     "q_turns": 30,
     "date": "2026-11-15"
+  },
+  {
+    "spring_name": "16X7 Garage Door",
+    "slug": "16x7-garage-door-ippt-turns-calculator",
+    "title": "16X7 Garage Door IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.08 IPPT/spring), balanced door weight (1 lbs pair / 0 lbs single), 20-coil wire size (4.36\"), and 30 quarter-turns for 16X7 Garage Door.",
+    "door_lbs": 1,
+    "ippt": 0.1,
+    "q_turns": 30,
+    "date": "2026-11-15"
+  },
+  {
+    "spring_name": "8X7 Garage Door",
+    "slug": "8x7-garage-door-ippt-turns-calculator",
+    "title": "8X7 Garage Door IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.08 IPPT/spring), balanced door weight (1 lbs pair / 0 lbs single), 20-coil wire size (4.36\"), and 30 quarter-turns for 8X7 Garage Door.",
+    "door_lbs": 1,
+    "ippt": 0.1,
+    "q_turns": 30,
+    "date": "2026-11-15"
+  },
+  {
+    "spring_name": "18X8 Garage Door",
+    "slug": "18x8-garage-door-ippt-turns-calculator",
+    "title": "18X8 Garage Door IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.08 IPPT/spring), balanced door weight (1 lbs pair / 0 lbs single), 20-coil wire size (4.36\"), and 30 quarter-turns for 18X8 Garage Door.",
+    "door_lbs": 1,
+    "ippt": 0.1,
+    "q_turns": 30,
+    "date": "2026-11-15"
   }
 ]
