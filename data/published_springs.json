@@ -538,5 +538,35 @@
     "ippt": 0.1,
     "q_turns": 30,
     "date": "2026-11-17"
+  },
+  {
+    "spring_name": ".225 X 2 X 24 Torsion Spring",
+    "slug": "225-x-2-x-24-torsion-spring-ippt-turns-calculator",
+    "title": ".225 X 2 X 24 Torsion Spring IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.09 IPPT/spring), balanced door weight (1 lbs pair / 0 lbs single), 20-coil wire size (4.5\"), and 30 quarter-turns for .225 X 2 X 24 Torsion Spring.",
+    "door_lbs": 1,
+    "ippt": 0.1,
+    "q_turns": 30,
+    "date": "2026-11-17"
+  },
+  {
+    "spring_name": ".225 X 2 X 28 Garage Door Spring",
+    "slug": "225-x-2-x-28-garage-door-spring-ippt-turns-calculator",
+    "title": ".225 X 2 X 28 Garage Door Spring IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.09 IPPT/spring), balanced door weight (1 lbs pair / 0 lbs single), 20-coil wire size (4.5\"), and 30 quarter-turns for .225 X 2 X 28 Garage Door Spring.",
+    "door_lbs": 1,
+    "ippt": 0.1,
+    "q_turns": 30,
+    "date": "2026-11-17"
+  },
+  {
+    "spring_name": ".225 X 2 X 23.5 Garage Door Spring",
+    "slug": "225-x-2-x-235-garage-door-spring-ippt-turns-calculator",
+    "title": ".225 X 2 X 23.5 Garage Door Spring IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.09 IPPT/spring), balanced door weight (1 lbs pair / 0 lbs single), 20-coil wire size (4.5\"), and 30 quarter-turns for .225 X 2 X 23.5 Garage Door Spring.",
+    "door_lbs": 1,
+    "ippt": 0.1,
+    "q_turns": 30,
+    "date": "2026-11-17"
   }
 ]
