@@ -598,5 +598,35 @@
     "ippt": 0.1,
     "q_turns": 30,
     "date": "2026-11-18"
+  },
+  {
+    "spring_name": "218 X 2 X 27 Torsion Spring",
+    "slug": "218-x-2-x-27-torsion-spring-ippt-turns-calculator",
+    "title": "218 X 2 X 27 Torsion Spring IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.08 IPPT/spring), balanced door weight (1 lbs pair / 0 lbs single), 20-coil wire size (4.36\"), and 30 quarter-turns for 218 X 2 X 27 Torsion Spring.",
+    "door_lbs": 1,
+    "ippt": 0.1,
+    "q_turns": 30,
+    "date": "2026-11-18"
+  },
+  {
+    "spring_name": "218 X 2 X 25 Torsion Spring",
+    "slug": "218-x-2-x-25-torsion-spring-ippt-turns-calculator",
+    "title": "218 X 2 X 25 Torsion Spring IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.08 IPPT/spring), balanced door weight (1 lbs pair / 0 lbs single), 20-coil wire size (4.36\"), and 30 quarter-turns for 218 X 2 X 25 Torsion Spring.",
+    "door_lbs": 1,
+    "ippt": 0.1,
+    "q_turns": 30,
+    "date": "2026-11-18"
+  },
+  {
+    "spring_name": "0.192 × 1.75\" × 21\" Torsion Spring Pair",
+    "slug": "0192-175-21-torsion-spring-pair-ippt-turns-calculator",
+    "title": "0.192 × 1.75\" × 21\" Torsion Spring Pair IPPT, Door Weight & Winding Turns Calculator (2026)",
+    "description": "Calculate exact IPPT torque (0.05 IPPT/spring), balanced door weight (0 lbs pair / 0 lbs single), 20-coil wire size (3.84\"), and 30 quarter-turns for 0.192 × 1.75\" × 21\" Torsion Spring Pair.",
+    "door_lbs": 0,
+    "ippt": 0.1,
+    "q_turns": 30,
+    "date": "2026-11-18"
   }
 ]
